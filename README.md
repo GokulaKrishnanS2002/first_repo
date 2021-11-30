@@ -1,2 +1,2 @@
 # DEMO - COMMIT
-This is a demo readme file to learn github.
+This is a day 0 on git.
